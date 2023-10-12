@@ -15,7 +15,7 @@ Neste experimento faremos com que o LED incorporado e dois LEDs pisquem juntos u
 
 ## Esquema do projeto
 
-Arduino_manipulando_dois_LEDs_em_sequencia.png
+![Esquema do projeto](Arduino_manipulando_dois_LEDs_em_sequencia.png)
 
 ## Projeto no Tinkercad
 
